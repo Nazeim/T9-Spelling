@@ -1,0 +1,27 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T9Spelling", "T9Spelling\T9Spelling.csproj", "{4288285B-2A58-406F-B05F-EFBB912E83C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T9Spelling_UnitTest", "T9Spelling_UnitTest\T9Spelling_UnitTest.csproj", "{9B7B87D6-29E9-4DF1-BE3F-FF207DEF9485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4288285B-2A58-406F-B05F-EFBB912E83C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4288285B-2A58-406F-B05F-EFBB912E83C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4288285B-2A58-406F-B05F-EFBB912E83C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4288285B-2A58-406F-B05F-EFBB912E83C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B7B87D6-29E9-4DF1-BE3F-FF207DEF9485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B7B87D6-29E9-4DF1-BE3F-FF207DEF9485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B7B87D6-29E9-4DF1-BE3F-FF207DEF9485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B7B87D6-29E9-4DF1-BE3F-FF207DEF9485}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
